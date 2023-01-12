@@ -43,7 +43,7 @@ public class PrintfFormatingProblem {
                 String s1=sc.next();
                 int x=sc.nextInt();
                 System.out.printf("%-15s%03d%n", s1, x);
-                //Complete this line
+                //Complete this line. Its Solved.
             }
             System.out.println("================================");
 
